@@ -7,7 +7,7 @@ Project to test the package @mdxeditor for markdown
 * [Vite](https://vite.dev/)
 
 # Intructions
-## START PROJECT IN PORT 5173
+To start the in port 5173
 ```
 $ pnpm dev
 ```
